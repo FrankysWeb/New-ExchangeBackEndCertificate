@@ -18,4 +18,4 @@ Run the script:
 
 ## Visit my Blog for an example
  
-  [FrankysWeb](https://www.frankysweb.de/kleines-script-um-den-exchange-server-status-zu-ermitteln/)
+  [FrankysWeb](https://www.frankysweb.de/erneuern-des-zertifikates-fur-das-exchange-server-back-end/)
