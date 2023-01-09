@@ -18,4 +18,4 @@ Run the script:
 
 ## Visit my Blog for an example
  
-  [FrankysWeb](https://www.frankysweb.de/erneuern-des-zertifikates-fur-das-exchange-server-back-end/)
+  [FrankysWeb](https://www.frankysweb.de/erneuern-des-zertifikats-fur-das-exchange-server-back-end/)
